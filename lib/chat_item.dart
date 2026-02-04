@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'page_dua.dart';
+import 'login_page.dart';
 
 class ChatItem extends StatelessWidget {
   final String nama;
